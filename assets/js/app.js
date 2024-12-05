@@ -9,9 +9,9 @@ const app = createApp({
             // 头像图片路径（根目录）
             avatar: 'CydiaIcon.png',
             // 网站描述文字
-            description: 'A-Zhooo个人软件源',
+            description: 'Tsd255个人软件源',
             // 软件源地址
-            repoUrl: 'https://repo.zhooo.cn',
+            repoUrl: '',
             // 版权信息
             copyright: '© 2019-2024 我的Cydia源. 保留所有权利.',
             // 商店配置数组
