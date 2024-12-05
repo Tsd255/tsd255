@@ -11,7 +11,7 @@ const app = createApp({
             // 网站描述文字
             description: 'Tsd255个人软件源',
             // 软件源地址
-            repoUrl: '',
+            repoUrl: 'https://tsd255.github.io/tsd255/',
             // 版权信息
             copyright: '© 2019-2024 我的Cydia源. 保留所有权利.',
             // 商店配置数组
