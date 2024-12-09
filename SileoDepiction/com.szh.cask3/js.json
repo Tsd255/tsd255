@@ -10,7 +10,7 @@
             "views": [
                 {
                     "class": "DepictionButtonView",
-                    "text": "兼容iOS14.0以上",
+                    "text": "兼容iOS16.0以上",
                     "action":"",                  
                     "tintColor": "#FF7799",
                 },
