@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://tsd255.github.io/tsd255/SileoDepiction/com.szh.cask3/banner.png",
+    "headerImage": "https://tsd255.github.io/tsd255/SileoDepiction/Images/banner.png",
     "tintColor": "#FF4455",
     "minVersion": "0.3",
     "tabs": [
@@ -63,11 +63,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://tsd255.github.io/tsd255/SileoDepiction/com.szh.cask3/Screenshot_0.png"
+                            "url": "https://tsd255.github.io/tsd255/SileoDepiction/Images/Screenshot_0.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://tsd255.github.io/tsd255/SileoDepiction/com.szh.cask3/Screenshot_1.png"
+                            "url": "https://tsd255.github.io/tsd255/SileoDepiction/Images/Screenshot_1.png"
                         }
                     ]
                 },
