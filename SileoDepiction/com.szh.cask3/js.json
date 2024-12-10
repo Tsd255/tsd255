@@ -104,7 +104,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS14以上",
+                    "text": "iOS16以上",
                     "title": "支持范围"
                 },
                 {
