@@ -32,7 +32,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### as if there were a glimmer of light\n\n仿佛若有光\n\n\<https://tsd255.github.io/tsd255/>",
+                    "markdown": "### as if there were a glimmer of light\n\n仿佛若有光\n\n <https://tsd255.github.io/tsd255/>",
                     "useSpacing": false,
                 },
                 {
